@@ -1,38 +1,41 @@
 <br clear="both">
 
-
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
-###
+
 
 <br clear="both">
 
 
-###
 
-<h1 align="center">Hola 👋, Soy 𝓙𝓮𝓼𝓾𝓼 𝓒𝓸𝓬𝓱𝓮𝓻𝓸</h1>
+<h1 align="center">Hola 👋, Soy Brian Pareja</h1>
 
-###
+
 
 <br clear="both">
 
-<h3 align="center"> Bienvenido a mi GitHub. un apasionado del desarrollo con poca experia, pero con ganas de obtener un gran aprendizaje 🚀</h3>
+<h3 align="center"> Bienvenido a mi GitHub. un apasionado del desarrollo con poca experia, pero con ganas de obtener un gran aprendizaje  🚀</h3>
 
-###
+
 
 <p align="left"></p>
 
-###
+
+
 
 <br clear="both">
+<br clear="both">
+<br clear="both">
+<br clear="both">
+
+
 
 <h3 align="left">🛠   Language and tools</h3>
 
-###
 
 <br clear="both">
 
